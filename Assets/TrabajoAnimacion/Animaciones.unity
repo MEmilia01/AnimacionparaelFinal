@@ -233,7 +233,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 0e63ca35d107cf94d920df2e1c3faafb, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.7071068
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 0e63ca35d107cf94d920df2e1c3faafb, type: 3}
       propertyPath: m_LocalRotation.x
@@ -241,7 +241,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 0e63ca35d107cf94d920df2e1c3faafb, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: 0.7071068
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 0e63ca35d107cf94d920df2e1c3faafb, type: 3}
       propertyPath: m_LocalRotation.z
@@ -253,7 +253,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 0e63ca35d107cf94d920df2e1c3faafb, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: 90
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 0e63ca35d107cf94d920df2e1c3faafb, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -263,6 +263,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: skeletonZombie
       objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 0e63ca35d107cf94d920df2e1c3faafb, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 7ade9f9cf05b9924e89be8f786e9ace4, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
